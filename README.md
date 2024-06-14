@@ -5,6 +5,7 @@ A comprehensive Flutter project for an ecommerce application utilizing Bloc/Cubi
 ## Overview
 
 This project is a demonstration of a fully-featured ecommerce application built with Flutter. It integrates various third-party packages to provide an enhanced user experience and covers several important aspects of mobile app development, including state management, persistent storage, network requests, animations, and user authentication.
+![App Screenshot](assets/app/1.jpg)
 
 ## Features
 
