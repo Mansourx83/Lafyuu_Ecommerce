@@ -1,5 +1,7 @@
 # Lafyuu Ecommerce
-![App Screenshot](assets/app/1.PNG)
+
+![App Screenshot](assets/app/1.png)
+
 A comprehensive Flutter project for an ecommerce application utilizing Bloc/Cubit for efficient state management.
 
 ## Overview
