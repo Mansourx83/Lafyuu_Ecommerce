@@ -5,7 +5,7 @@ A comprehensive Flutter project for an ecommerce application utilizing Bloc/Cubi
 ## Overview
 
 This project is a demonstration of a fully-featured ecommerce application built with Flutter. It integrates various third-party packages to provide an enhanced user experience and covers several important aspects of mobile app development, including state management, persistent storage, network requests, animations, and user authentication.
-![App Screenshot](assets/app/1.jpg)
+
 
 ## Features
 
@@ -33,3 +33,10 @@ This project is a demonstration of a fully-featured ecommerce application built 
 - **google_sign_in**: ^6.2.1 - Enables Google sign-in integration.
 - **firebase_auth**: ^4.17.7 - Firebase Authentication SDK.
 - **flutter_facebook_auth**: ^6.1.1 - Enables Facebook sign-in integration.
+
+## Application Images
+![App Screenshot](assets/app/1.jpg)
+![App Screenshot](assets/app/2.jpg)
+![App Screenshot](assets/app/3.jpg)
+![App Screenshot](assets/app/4.jpg)
+![App Screenshot](assets/app/5.jpg)
